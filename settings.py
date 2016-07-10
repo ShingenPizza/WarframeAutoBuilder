@@ -27,7 +27,7 @@ sortby = 'reload_dps'
 num_of_top_results = 10
 
 # The drain limit for mods. Set to None if you don't want it to be limited (if you want to check the best possible build).
-point_limit = 60
+point_limit = None
 
 # The minimum and maximum number of mods in a combination that you want to check.
 num_of_mods_min = 1
