@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import sys
+
 try:
     from settings import weapon
 except ImportError:
@@ -104,3 +106,6 @@ sett = {
 }
 
 calculate(sett)
+
+if len(sys.argv) < 2 or sys.argv[1] != 'quit':
+    raw_input('Waiting, so the console window doesn\'t close. Use \'quit\' parameter to skip it.\n')
