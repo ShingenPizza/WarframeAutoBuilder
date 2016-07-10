@@ -1,0 +1,6 @@
+.idea
+results/
+backups/
+
+*.pyc
+settings.py

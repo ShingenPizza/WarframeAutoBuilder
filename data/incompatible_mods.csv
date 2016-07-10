@@ -1,0 +1,12 @@
+type,mod1,mod2
+RIFLE,BaneOfX,PrimedBaneOfX
+RIFLE,FastHands,PrimedFastHands
+SHOTGUN,PointBlank,PrimedPointBlank
+SHOTGUN,Ravage,PrimedRavage
+PISTOL,HeatedCharge,PrimedHeatedCharge
+PISTOL,PistolGambit,PrimedPistolGambit
+PISTOL,SlipMagazine,PrimedSlipMagazine
+PISTOL,TargetCracker,PrimedTargetCracker
+MELEE,PressurePoint,PrimedPressurePoint
+MELEE,HeavyTrauma,PrimedHeavyTrauma
+MELEE,Reach,PrimedReach

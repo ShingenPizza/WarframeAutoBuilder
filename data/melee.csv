@@ -1,0 +1,6 @@
+name,type,polarities,atk_spd,crit_chance,crit_mult,stat_chance,impact,punct,slash,heat,cold,electr,toxin,corrosive,blast,gas,magnetic,rad,viral
+DragonNikana,MELEE,,1.0,0.15,2.0,0.15,4.25,8.5,72.25,,,,,,,,,,
+Gram,MELEE,,0.95,0.15,2.0,0.15,15.0,15.0,70.0,,,,,,,,,,
+Nikana,MELEE,,0.917,0.1,2.0,0.1,2.25,4.5,38.25,,,,,,,,,,
+NikanaPrime,MELEE,,1.08,0.2,2.0,0.2,4.75,4.75,85.5,,,,,,,,,,
+Redeemer,MELEE,,0.833,0.05,1.5,0.1,6.0,12.0,42.0,,,,,,,,,,

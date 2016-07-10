@@ -1,0 +1,3 @@
+* text=auto
+settings.py text eol=crlf
+README.md text eol=crlf
